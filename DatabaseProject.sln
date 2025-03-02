@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseProject", "DatabaseProject\DatabaseProject.csproj", "{B1E1A748-E5F0-4B68-8CF9-66D75C87CDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeSearchApp", "WindowsFormsApp1\EmployeeSearchApp.csproj", "{0D2F7253-166B-4F65-9809-70F657838098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePaySearch", "EmployeePaySearch\EmployeePaySearch.csproj", "{A2574ADE-282C-4539-B513-4B8D5B04BA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E1A748-E5F0-4B68-8CF9-66D75C87CDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E1A748-E5F0-4B68-8CF9-66D75C87CDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E1A748-E5F0-4B68-8CF9-66D75C87CDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E1A748-E5F0-4B68-8CF9-66D75C87CDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2F7253-166B-4F65-9809-70F657838098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2F7253-166B-4F65-9809-70F657838098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2F7253-166B-4F65-9809-70F657838098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2F7253-166B-4F65-9809-70F657838098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2574ADE-282C-4539-B513-4B8D5B04BA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2574ADE-282C-4539-B513-4B8D5B04BA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2574ADE-282C-4539-B513-4B8D5B04BA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2574ADE-282C-4539-B513-4B8D5B04BA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

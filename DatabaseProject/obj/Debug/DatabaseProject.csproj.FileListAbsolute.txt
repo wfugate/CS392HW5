@@ -1,0 +1,12 @@
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\bin\Debug\Personnel.mdf
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\bin\Debug\Personnel_log.ldf
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Form1.resources
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Properties.Resources.resources
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.cache
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\ashto\source\repos\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb

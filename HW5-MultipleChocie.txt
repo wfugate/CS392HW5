@@ -1,0 +1,27 @@
+﻿Chapter 13 
+
+
+Multiple Choice:
+1. Database management system (DBMS)
+2. Database
+3. Table
+4. Row
+5. Column
+6. Primary key
+7. Identity column
+8. Data source
+9. Table adapter
+10. Dataset
+11. Binding source
+12. Data-bound control
+13. DataGridView control
+14. Details view
+15. Output folder
+16. Smart tag
+17. DataSource property
+18. Displaymember property
+19. SQL, structured query language
+20. Queries
+21. Select statement
+22. Table adapter query 
+23. Schema definition file

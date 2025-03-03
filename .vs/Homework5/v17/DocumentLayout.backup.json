@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\willi\\source\\repos\\Homework5\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Sulaf\\CS392HW5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A071703F-ECD3-4F7B-9784-B95F12B4BA17}|BMIDB\\BMIDB.csproj|c:\\users\\sulaf\\cs392hw5\\bmidb\\enhanced bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A071703F-ECD3-4F7B-9784-B95F12B4BA17}|BMIDB\\BMIDB.csproj|solutionrelative:bmidb\\enhanced bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A071703F-ECD3-4F7B-9784-B95F12B4BA17}|BMIDB\\BMIDB.csproj|c:\\users\\sulaf\\cs392hw5\\bmidb\\enhanced bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A071703F-ECD3-4F7B-9784-B95F12B4BA17}|BMIDB\\BMIDB.csproj|solutionrelative:bmidb\\enhanced bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enhanced BMI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sulaf\\CS392HW5\\BMIDB\\Enhanced BMI.cs",
+              "RelativeDocumentMoniker": "BMIDB\\Enhanced BMI.cs",
+              "ToolTip": "C:\\Users\\Sulaf\\CS392HW5\\BMIDB\\Enhanced BMI.cs [Design]",
+              "RelativeToolTip": "BMIDB\\Enhanced BMI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:38:09.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enhanced BMI.cs",
+              "DocumentMoniker": "C:\\Users\\Sulaf\\CS392HW5\\BMIDB\\Enhanced BMI.cs",
+              "RelativeDocumentMoniker": "BMIDB\\Enhanced BMI.cs",
+              "ToolTip": "C:\\Users\\Sulaf\\CS392HW5\\BMIDB\\Enhanced BMI.cs",
+              "RelativeToolTip": "BMIDB\\Enhanced BMI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:38:03.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

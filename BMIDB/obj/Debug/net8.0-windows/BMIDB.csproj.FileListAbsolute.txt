@@ -1,0 +1,17 @@
+C:\Users\Sulaf\CS392HW5\BMIDB\bin\Debug\net8.0-windows\BMIDB.exe
+C:\Users\Sulaf\CS392HW5\BMIDB\bin\Debug\net8.0-windows\BMIDB.deps.json
+C:\Users\Sulaf\CS392HW5\BMIDB\bin\Debug\net8.0-windows\BMIDB.runtimeconfig.json
+C:\Users\Sulaf\CS392HW5\BMIDB\bin\Debug\net8.0-windows\BMIDB.dll
+C:\Users\Sulaf\CS392HW5\BMIDB\bin\Debug\net8.0-windows\BMIDB.pdb
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.csproj.GenerateResource.cache
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.AssemblyInfoInputs.cache
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.AssemblyInfo.cs
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.csproj.CoreCompileInputs.cache
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.sourcelink.json
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.dll
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\refint\BMIDB.dll
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.pdb
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.genruntimeconfig.cache
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\ref\BMIDB.dll
+C:\Users\Sulaf\CS392HW5\BMIDB\obj\Debug\net8.0-windows\BMIDB.EnhancedBMI.resources
